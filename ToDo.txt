@@ -1,0 +1,7 @@
+Get Player for Tier 3 (no reply from Questions)
+Create a Map-System
+Homepage with rudimentary funcionality (Profile, Rank, Opponent,...)
+Finish rule set
+Prepare DNF Server
+  - Challenge Sound
+  - Stats transfer
